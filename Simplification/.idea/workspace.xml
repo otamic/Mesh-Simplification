@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Simplification" targetName="Simplification" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21f41d09-197c-4770-8574-535d2424722e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bqTIQSnnjE4cAxXhAweFrElzGW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Simplification" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Simplification" TARGET_NAME="Simplification" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Simplification" RUN_TARGET_NAME="Simplification">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f41d09-197c-4770-8574-535d2424722e" name="Default Changelist" comment="" />
+      <created>1589358543553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589358543553</updated>
+      <workItem from="1589358545348" duration="16701000" />
+      <workItem from="1589418960875" duration="11796000" />
+      <workItem from="1589451287994" duration="10941000" />
+      <workItem from="1589504125124" duration="4190000" />
+      <workItem from="1589511203376" duration="27964000" />
+      <workItem from="1589593970978" duration="5191000" />
+      <workItem from="1589618706598" duration="1432000" />
+      <workItem from="1589763179009" duration="509000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1589559840793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589559840794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1589601296675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589601296675</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.fs" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="244" y="23" width="909" height="804" key="CommitChangelistDialog2" timestamp="1589601296504">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="244" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589559840518" />
+    <state x="244" y="23" width="909" height="804" key="CommitChangelistDialog2/0.23.1440.804@0.23.1440.804" timestamp="1589601296504" />
+    <state width="540" height="466" key="DebuggerActiveHint" timestamp="1589595597065">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="436" height="466" key="DebuggerActiveHint/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589459393450" />
+    <state width="540" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1589595597065" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1589610426598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589471932008" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-2048.0.2048.1536/0.0.1440.900@0.0.1440.900" timestamp="1589360492686" />
+    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589610426598" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1589610426597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589471932006" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-2048.0.2048.1536/0.0.1440.900@0.0.1440.900" timestamp="1589360492683" />
+    <state width="1398" height="224" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589610426597" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1589610426596">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589471932006" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-2048.0.2048.1536/0.0.1440.900@0.0.1440.900" timestamp="1589360492681" />
+    <state width="1398" height="224" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589610426596" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1589610426597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589471932007" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-2048.0.2048.1536/0.0.1440.900@0.0.1440.900" timestamp="1589360492685" />
+    <state width="1398" height="224" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589610426597" />
+    <state width="1398" height="224" key="GridCell.Tab.1.bottom" timestamp="1589610426599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.1.bottom/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589471931987" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/-1366.0.1366.1024/0.23.1440.804@0.23.1440.804" timestamp="1589445143841" />
+    <state width="1398" height="224" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589610426599" />
+    <state width="1398" height="224" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1589602289016" />
+    <state width="1398" height="224" key="GridCell.Tab.1.center" timestamp="1589610426598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.1.center/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589471931986" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/-1366.0.1366.1024/0.23.1440.804@0.23.1440.804" timestamp="1589445143839" />
+    <state width="1398" height="224" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589610426598" />
+    <state width="1398" height="224" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1589602289015" />
+    <state width="1398" height="224" key="GridCell.Tab.1.left" timestamp="1589610426598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.1.left/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589471931985" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/-1366.0.1366.1024/0.23.1440.804@0.23.1440.804" timestamp="1589445143839" />
+    <state width="1398" height="224" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589610426598" />
+    <state width="1398" height="224" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1589602289015" />
+    <state width="1398" height="224" key="GridCell.Tab.1.right" timestamp="1589610426599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="224" key="GridCell.Tab.1.right/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589471931987" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/-1366.0.1366.1024/0.23.1440.804@0.23.1440.804" timestamp="1589445143840" />
+    <state width="1398" height="224" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589610426599" />
+    <state width="1398" height="224" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1589602289016" />
+    <state x="397" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1589763181171">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="275" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1589763181171" />
+    <state x="397" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1589504149432" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589601239364">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1589601239364" />
+    <state x="0" y="0" width="1440" height="900" maximized="true" key="dock-window-1" timestamp="1589593986122">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="-1366" y="0" width="1366" height="1024" key="dock-window-1/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589467636198" />
+    <state x="-1366" y="0" width="1366" height="1024" key="dock-window-1/-1366.0.1366.1024/0.23.1440.804@0.23.1440.804" timestamp="1589458152633" />
+    <state x="-1366" y="0" width="1366" height="1024" key="dock-window-1/-1366.23.1366.1001/0.0.1440.827@0.0.1440.827" timestamp="1589365477432" />
+    <state x="-1366" y="0" width="1366" height="1024" key="dock-window-1/-1366.23.1366.931/0.0.1440.900@0.0.1440.900" timestamp="1589452281607" />
+    <state x="-1366" y="0" width="1366" height="1024" key="dock-window-1/-1366.23.1366.931/0.23.1440.877@0.23.1440.877" timestamp="1589452639582" />
+    <state x="0" y="0" width="1440" height="900" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1589511216929" />
+    <state x="0" y="0" width="1440" height="900" maximized="true" key="dock-window-1/0.23.1440.804@0.23.1440.804" timestamp="1589593986122" />
+    <state x="482" y="88" key="refactoring.ChangeSignatureDialog" timestamp="1589361367021">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="88" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1589361367021" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1589381203305">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/-1366.0.1366.1024/0.0.1440.900@0.0.1440.900" timestamp="1589381203305" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/simplification.cpp</url>
+          <line>195</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>238</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

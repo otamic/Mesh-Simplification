@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Simplification"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\assimp-4.1\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Simplification">
+				<Option output="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Simplification" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLUT.framework/Headers"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/../../OpenGL/Libraies/includes"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simplification"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Simplification/fast">
+				<Option output="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Simplification" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLUT.framework/Headers"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/../../OpenGL/Libraies/includes"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simplification/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/glad.c">
+			<Option target="Simplification"/>
+		</Unit>
+		<Unit filename="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/main.cpp">
+			<Option target="Simplification"/>
+		</Unit>
+		<Unit filename="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/simplification.cpp">
+			<Option target="Simplification"/>
+		</Unit>
+		<Unit filename="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/simplification.h">
+			<Option target="Simplification"/>
+		</Unit>
+		<Unit filename="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/stb_image.cpp">
+			<Option target="Simplification"/>
+		</Unit>
+		<Unit filename="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/../../../../../../usr/local/lib/cmake/assimp-4.1/assimp-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\assimp-4.1\"/>
+		</Unit>
+		<Unit filename="/Users/fengyandeng/Desktop/LearnOpenGL/Project/Simplification/../../../../../../usr/local/lib/cmake/assimp-4.1/assimp-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\assimp-4.1\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
